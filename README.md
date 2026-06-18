@@ -11,9 +11,8 @@ NoJobles is a job search platform designed to help users discover career opportu
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://nojobles-project.vercel.app/
 
-*(Add your Vercel deployment URL here once the project is deployed.)*
 
 ## 🛠️ Tech Stack
 
